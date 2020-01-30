@@ -19,5 +19,4 @@ Route::get('/products', 'ProductController@index')->name('products');
 Route::post('/products/store', 'ProductController@store')->name('products.store');
 Route::get('/products/list', 'ProductController@list')->name('products.list');
 Route::get('/products/show/{productModel}', 'ProductController@show')->name('products.show');
-//Route::get('/updateprice', 'PriceController@updatePrice');
-Route::post('/updateprice', 'PriceController@updatePrice')->name('updateprice');
+Route::get('/updateprice', 'PriceController@updatePrice');
