@@ -2,7 +2,7 @@
 
 Clone the repository
 
-    git clone https://github.com/nandrito/fabelio-test.git
+    git clone https://github.com/nandrito/price-monitoring.git
 
 Switch to repository folder
 
