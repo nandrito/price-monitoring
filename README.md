@@ -6,7 +6,7 @@ Clone the repository
 
 Switch to repository folder
 
-    cd fabelio-test
+    cd price-monitoring
 
 Install all dependencies using composer, if you haven't have composer the download it at https://getcomposer.org/
 
